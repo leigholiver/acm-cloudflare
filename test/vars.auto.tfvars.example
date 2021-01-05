@@ -1,0 +1,7 @@
+aws_region      =
+email           =
+api_key         =
+account_id      =
+cloudflare_zone =
+domain_name     =
+subject_alternative_names = []
